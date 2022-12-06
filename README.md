@@ -1,0 +1,2 @@
+# Medic
+Hospital Management System
